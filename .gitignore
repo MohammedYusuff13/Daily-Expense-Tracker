@@ -1,0 +1,17 @@
+# Java
+backend/target/
+*.class
+# Node
+frontend/node_modules/
+frontend/dist/
+# Runtime data
+backend/data/*.xlsx
+backend/data/backups/
+.env
+# Editors
+.idea/
+.vscode/
+*.iml
+
+# Runtime logs
+backend.log
